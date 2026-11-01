@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "looot",
   "version": "0.1.0",
-  "description": "looot for Hermes: one sign-in and one prepaid balance for 2,500+ data API endpoints (work emails, phones, company and people search, SERP, web pages, news). Hosted MCP server plus 21 skills.",
+  "description": "looot for Hermes: one sign-in and one prepaid balance for 4,200+ data API endpoints (work emails, phones, company and people search, SERP, web pages, news). Hosted MCP server plus 21 skills.",
   "author": {
     "name": "looot",
     "email": "hello@looot.ai",

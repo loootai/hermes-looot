@@ -1,6 +1,6 @@
 # looot for Hermes Agent
 
-looot gives an agent one sign-in and one prepaid balance for 2,500+ data API endpoints from 90+ providers: work emails, phone numbers, company and people search, Google results, web pages as markdown, news, LinkedIn profiles, local businesses. The agent searches the catalog by the job it wants done, sees each price before it runs, and pays per call. A failed call costs nothing. There is no subscription, and you top up from $5.
+looot gives an agent one sign-in and one prepaid balance for 4,200+ data API endpoints from 300+ providers: work emails, phone numbers, company and people search, Google results, web pages as markdown, news, LinkedIn profiles, local businesses. The agent searches the catalog by the job it wants done, sees each price before it runs, and pays per call. A failed call costs nothing. There is no subscription, and you top up from $5.
 
 This repository is a portable [Agent Plugins v1](https://agent-plugins.org) package for [Hermes Agent](https://hermes-agent.nousresearch.com). It ships no code and installs no dependencies. It contains:
 
